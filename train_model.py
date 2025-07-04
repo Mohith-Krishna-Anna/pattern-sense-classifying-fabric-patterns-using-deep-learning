@@ -9,7 +9,7 @@ from keras.layers import Dense, GlobalAveragePooling2D
 from keras.optimizers import Adam
 
 
-base_dir = "C:/Users/madhu/Downloads/archive (5)/data_pattern"
+base_dir = "C:/Users/mohit/Downloads/archive (5)/data_pattern"
 categories = os.listdir(base_dir)
 
 data = []
